@@ -102,6 +102,13 @@
         border-radius: 10px;
         position: relative;
     }
+    .right-section{
+        width: 20%;
+        background-color: hsl(20, 50%, 98%);
+        padding: 5px;
+        border-radius: 10px;
+        height: 150px;
+    }
 }
 
 /* #image{
@@ -229,7 +236,4 @@ h1{
 .p3{
     color:  hsl(14, 86%, 42%);
     font-weight: 600;
-}
-.right-section{
-    background-color: hsl(20, 50%, 98%);
 }
